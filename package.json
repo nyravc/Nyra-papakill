@@ -1,0 +1,11 @@
+{
+  "name": "nyra-papakill-bot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "@hapi/boom": "^10.0.0",
+    "@whiskeysockets/baileys": "^6.5.0",
+    "pino": "^8.0.0"
+  }
+}
